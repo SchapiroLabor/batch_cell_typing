@@ -1,0 +1,16 @@
+name,label
+B cells,0
+CD4+ T cells,1
+CD8+ T cells,2
+Cancer cells,3
+DCs,4
+Endothelial,5
+Fibroblasts,6
+Granulocytes,7
+Macrophages,8
+Mast cells,9
+NK cells,10
+NKT cells,11
+T cells,12
+Treg,13
+ungated,14
