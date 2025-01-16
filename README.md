@@ -1,6 +1,8 @@
 # batch_cell_typing
-Analyze the effects of intensity batch correction algorithms on cell typing models (MAPS &amp; XGBoost)
-
+Analyze the effects of intensity batch correction algorithms on cell typing models (MAPS &amp; XGBoost) for 3 different methods: 
+1. COMBAT
+2. MICHEALSON
+3. Z-score normalization
 
 # Getting Started
 1. Git pull the MAPS repo + Install related dependencies
